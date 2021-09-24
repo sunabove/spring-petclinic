@@ -70,7 +70,7 @@
 			</exclusions>
 		</dependency>
 
-		<!-- Databases - Uses H2 by default -->
+		<!-- Databases -->
 		<dependency>
 			<groupId>com.oracle.database.jdbc</groupId>
 			<artifactId>ojdbc8</artifactId>
